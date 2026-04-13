@@ -32,6 +32,10 @@ Raw Data → S3 → Python Processing → S3 (Processed) → Glue → Athena
 
 ---
 
+## Architecture Diagram
+
+![AWS Pipeline](screenshots/pipeline_diagram.png)
+
 ## Tech Stack
 
 * AWS S3
