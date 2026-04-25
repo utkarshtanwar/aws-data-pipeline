@@ -129,3 +129,7 @@ FROM processed;
 
 * Automate pipeline using Airflow / Lambda
 * Add dashboard using AWS QuickSight
+
+## Author
+
+Utkarsh Tanwar
