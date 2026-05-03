@@ -50,7 +50,7 @@ Raw Data → S3 → Python Processing → S3 (Processed) → Glue → Athena
 Source:
 https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
-~5 lakh+ rows ecommerce dataset
+~3 lakh+ rows ecommerce dataset
 
 ---
 
